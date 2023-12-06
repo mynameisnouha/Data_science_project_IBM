@@ -16,8 +16,8 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mynameisnouha/Data_science_project_IBM.git
-```
 
+```
 ## File Descriptions
 Final_assignemnt.ipynb: Jupyter Notebook containing the code for web scraping, data extraction, and plotting the revenue trends.
 
